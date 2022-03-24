@@ -1,0 +1,1802 @@
+abbreviation: isifinyezo 
+abbreviated absolute pronoun: isabizwana soqobo esifinyeziwe 
+absolute pronoun: isabizwana soqobo 
+abstract: -ngephatheke ngezandla; okuserncabangweni: 
+ingqikithi (isifingqo) 
+abstract noun: ibizobumo, ibizosimo 
+achieve: -feza, -finyelela, -zuza 
+achieve a goal: -feza injongo, -finyelela enhlosweni, -zuza injongo 
+acquisition: inzuzo, ukuzuza (kolimi) 
+act (in drama): inkundla 
+action: isenzeko 
+action (concentrated): isenzeko esiqoqene 
+action (continuousldurative): isenzeko esiqhubekayo 
+action (habitual): isenzeko 
+esejwayelekile / esivamile 
+acoustic phonetics: ifonethiksil / ifonetiki ezwakalayo / yesimo somsindo wenkulumo 
+active articulator: isiphimisi esinyakazayo 
+adjectival concord : esivumelwano sesiphawalo 
+adjectival phrase: ibinzana lesiphawulo 
+adjectival stem: isiqu sesiphawulo 
+adjective: isiphawulo 
+adjunct: isengezo / isiphelelisi 
+adnoun : isichazabizo, isichasiso 
+adoptive: umfakela, isib. imoto, irula, njll 
+adventure: isigameko, isigigaba esingajwayelekile/esigwanqisayo 
+adverb: isandiso 
+adverb of manner: isandiso sesimo 
+adverb of place (locative): undaweni, isandisa sendawo 
+adverb of time: isandiso senkathi 
+adverbial determiner/marker: isilawuli sesandiso 
+adverbial formative : isakhi sesandiso 
+adverbial phrase: ibinzana lesandiso 
+adverbial relationship: ubudlelwane besandiso 
+aesthetic: -thintene nobuhlebuthanda buhle 
+affective connotation: incazelo ethintene nomoya/nemizwa 
+affective meaning: umqondo othintene nomoya/nemizwa ukuqondakala okuthintayo 
+affix: isifakelo, isixhumo 
+affricate, affricative: i-afrikhethi, uvinjwamfuthwa, umfuthwambhangqwa 
+affricative sound: umsindo kavinjwamfuthwa 
+agent: umenzeli 
+agentive adjunct: isengezo 
+agentive relationship: ubudlelwane bukamenzelil bomenzeli 
+agreement morpheme: imofimi lesivurnelwano; isakhi sesivumelwano 
+aim: inhloso, injongo 
+airstream mechanism: umgudu womoya ozwakalisa umsindo wenkulumo 
+allegory: i-alegori/indabarnfanekiso 
+alliteration: ufanamsindo 
+allomorph : i-alomofi; isakhisimbe 
+allophone: i-a lofoni ; umsindomumbe 
+allotone: iphimbolimbe 
+alphabet: i-alfabhethi; uhla lwezinhlamvu zamagama 
+alveolar: unsinini 
+alveolar click sound : ungwaqabathwansinini 
+alveolar sound: umsindo ongunsinini 
+alveo-lateral: unsininhlangothini 
+alveo-palatal: unsinilwangeni 
+amuse: -dlalisa, -hlekisa, -libazisa 
+amusement: isilibaziso, ukujabulisa, 
+analogy: isifanekiso 
+analyse: -hlahlela, -hlaziya, -qaqu- lula 
+analysis: uhlahlelo, ukucwaninga, ukuhlahlela, ukuhlaziya, ukuqaqulula 
+analytical: -hlahlelayo, -hlaziyayo, -qaqulayo 
+anapest: i-anaphesti ,  -hlahlelayo, -hlaziyayo, -qaqulayo 
+anapest: umalunga
+articulators: amalunga olimi angagcizelelwe alanywa agcizelelwe 
+animalisation: isenzasilwane 
+anonymous: -ngazelwa gama 
+antagonist: imbangi 
+anthem: ihubo, ingoma 
+anthology: iqoqo 
+anaphora : i-anafora; igama elimele elandulelayo 
+antecedent: isandulelo esichazwayo 
+anticlimax: ipholavuthondaba, ukudamba kwenkulumo 
+antithesis: impikisamqondo 
+antonym: i-anthonimi, isiphikiso, umqondophika 
+apostrophe: imbizi, inkulekelo, ummemezi 
+appendix: isithasiselo 
+applicative: impambosi yokwenzela 
+applied extension: impambosi yokwenzela 
+apposition (in): ubukhelwane; ngobukhelwane; amagama akhelene asebenza ngokufana 
+appreciation (understanding): ukuqonda, ukuncoma 
+approach: ukuvelela, ukuqhamukela 
+appropriate: -fanele 
+approximant: usondelela 
+arrange: -hlela 
+arrangement: uhlelo, ukuhlela 
+art: ubuciko; isinwe 
+article: i-athikili, indabarncubungulo 
+articulate: -phimisela 
+articulator: isiphimiseli 
+articulatory: okuphimiselekayo, okuphimiselekile 
+articulatory organ: isitho sokuphimisela 
+articulatory phonetics: ifonetiki yokuphimisela, imfundomsindo 
+articulatory position: indawo yokuphimisela 
+artist: igagu, ingcweti, iciko 
+artistic: ngobugagu, ngobungcweti, ngobuciko 
+aspect: isiqondiso 
+aspectual marker: isibonakalisi sesiqondiso 
+aspectual morpheme: imofimi lesiqondiso 
+aspirated consonant: umpheshethwa, ungwaqa, opheshethwayo, ovuthelwayo 
+aspiration: ukuphephetha, ukuvuthela, isiphephetho, isivuthelo, isabelo, ukwabela 
+assimilate: -fanisana, -fuzisana 
+assimilation: isifanisano, isifuzisano 
+assimilation (complete): isifaniso, isifuzisano esiphelele 
+assimilation (partial): isifaniso, isifuzisano esingaphelele 
+assimilation (progressive): isifanisano, isifuzisano esiqhubekayo 
+assimilation (retrogressive): isifanisano, esihlehlayo 
+association: ukufanisa, ukuhlanganisa 
+associative: -fanisayo, -hambisanayo, -hlanganisayo 
+associative copulative: isibanjalo esihlanganisayo 
+associative meaning: umqondo ohlanganisayo 
+associative relationship: ubudlewano obuhlanganisayo 
+assonance: ufanankamisa 
+asterisk: i-asteriski, inkanyezana
+attitude: isimomqondo 
+audience: ababukeli, abalaleli 
+audio-visual: i-odyovijwali; umabonezwakala 
+auditory phonetics: ifonethiksi yokuzwakala 
+augment: -khulisa 
+augmentative: isikhuliso 
+author: umbhali, umlobi 
+auxiliary: isingasenzo 
+auxiliary verb: insizasenzo 
+axiom: iqiniso elamukelekile 
+axiom (absolute): iqiniso eliphelele, isib. Angiboni muntu; akukho lutho; abayi ndawo 
+axiomatic: ngokweqiniso elisobala elamukelekile 
+back raised vowel: unkamisa osemuva ophakeme 
+basic prefix: isiqalosisekelo; isiqalo soqobo; isiqalongqo 
+basic structure: isakhiwo esiyisisekelo 
+bilabial: undebenimbili 
+bilabial consonant: ungwaqa, ondebenimbili 
+blade of tongue: isithebe solimi 
+blank verse: inkondlo engenamvumelwano 
+borrowing (of words) : umfakela, amagama awumfakela 
+bound morpheme: imofimi elingazimeliyo, isib. umu-ntu, njll 
+bridge of nose: umbombo 
+brackets ( ): abakaki 
+braces {}: abakaki abanameva 
+brackets (square) [ ]: abasikwele 
+breathy voice: izwi elizikayo 
+brochure: ibhrosha, ibhukwana 
+bulging stanza: indima equmbayo 
+burlesque: umbhalonhlekisa 
+capital letter: ufeleba, unobumbakazi 
+cardinal vowels: onkamisa sisekelo 
+cartilage: uqwanga 
+category: isigaba, umkhakha 
+causative/assistive extension: impambosi yokwenzisisa 
+cause and effect: imbangela nomphumela 
+centre, central theme: indeni 
+challenge: inselelo, qhudelana, -bangisa; -cela inselelo 
+challenger: imbangi; umcelinselelo 
+character: umlingisi, umlingiswa, isici, isimilo 
+characterisation: ukubunjwa; ukuvezwa kwabalingiswa 
+characteristic: umkhuba, umumo, uphawu 
+characteristic tone: ithonilephimbo eliwuphawu 
+chronological order: ukulandelana ngokwehlakala 
+classic: -ngasenakubuna; -nesithunzi; -velazikhathi zonke 
+classification: ukuhleleka, ukuhlelwa 
+clause: umshwana 
+clause (embedded): umshwana owembelwe 
+(inserted): umshwana ofakiwe 
+(main): umshwana oyinhloko 
+(subordinate): umshwana okhonzile/oncikile 
+click suction sound: ungwaqabathwa 
+climax: ivuthondaba; isiqongo 
+clitic (see enclitic and proclitic): iseluli 
+close(d) vowel: unkamisa ovalekile/osondelele 
+closet drama : umdlalo ofundwayo; idrama efundwayo 
+coalesce: -lumbana 
+coalescence: ukulumbana 
+cognition: ukwazi; ukubona 
+cognitive: -ngolwazi; -ngokubona; -ngokuqonda 
+cohyponym : ikhohayiphonimu; igama eliqukethwe namanye 
+coincidence: ukwethuka kuqondana; ukwethuka kwenzeka ngasikhathisinye; ukuziqondanela 
+coinage: ukuqamba; ukuqanjwa kwamagama 
+collective noun: ibizoqoqa 
+colon: ikholoni, ikhefu 
+collocative: 
+collocative meaning: umqondo wokulandelanayo; onikezelanayo 
+column: ikholomu; uhla 
+comedy: ikhomedi, isiloyiso 
+comma: ikhoma, ikhefana 
+command: umyalelo, ukukhuza; ukuyala, ukuyalela 
+common noun: ibizonje, ibizomvana 
+communication: ukuthintana, ukuxhumana 
+compare: -linganisa, -qhathanisa 
+comparison: ukulinganisa, ukuqhathanisa 
+comparative analysis: ukahlaziya okuqhathanisayo 
+comparative linguistics: ilingwistiksi yokuqhathanisa izilimi; isayensizilimi yokuqhathanisa; ucwaningolulimi 
+competence: ikhono 
+competence (grammatical): ikhono lolimi 
+componential analysis: ukucozulula izingxenye/imiqondo 
+complement: isigcwalisi 
+complex:-phicayo 
+complex character: umlingiswa ophicayo 
+complex sentence: umusho omagatshagatsha 
+complication: inxushunxushu, isixabadiya, isixakaxaka 
+compound nasalised click: ungwaqabathwa ongumankankana ngxube 
+compound noun: ibizombaxa, ibizongxube 
+consecutive: 
+compound sentence: umusho ombaxa 
+comprehensible: -zwakala 
+comprehension: ukuqondisisa, ukuzwisisa 
+comprehensive: -banzi; -mumethe 
+compulsory elision: ukweqiwa okuyimpoqo 
+concept: umqondo, ikhonsepthi 
+conceptual meaning: umqondongqo 
+concord: isivumelwano 
+(adjectival): isivumelwano sesiphawulo 
+(objectival): isivumelwano sikamenziwa
+(relative): isivumelwano sesibaluli 
+(subjectival): isivumelwano sikamenzi/somenzi senhloko 
+(definite): isivumelwanoqho, isivumelwano esisobala 
+(indefinite): isivumelwano esingakhombinto isib. kukhuluma umuntu 
+concordial: -sasivumelwano 
+concrete noun: ibizoqobo 
+conflict: udweshu  
+conjoined objects/subjects: omenziwa, abenziwa, omenzi, abenzi abahlangene 
+conjugation: ukuhlela, ukuhlelwa 
+conjunctive: isihlanganiso 
+conjunctive writing: ukubhala okuhlanganisayo 
+connotative meaning: incazelo ecashile 
+consecutive action: isenzeko esilandelanisayo 
+consecutive mood: indlela yokulandelana kokwedlule 
+consonance: ufanangwaqa 
+consonant: ungwaqa 
+consonant (aspirated): umpheshethwa, ungwaqa opheshethwayo / ovuthelwayo 
+(dental): ungwaqazinyweni  	
+(syllabic): ungwaqa oyilunga, isib. omkhulu 
+consonantalisation: ukungwaqazisa 
+constant: -ngaguqukiyo 
+contactive extension: impambosi yasendulo u-ath-, isib. uthisha uphatha induku - uthisha uphethe induku, njll 
+contain: -mumatha, -qukatha 
+content: umthamo, okuqukethwe, okuphakathi 
+context: ingqikithi; isimo 
+continuum: ukuqhubekelela 
+contraction: isifinyezo, isifingqo 
+contrast: isiqhathaniso, umehluko 
+contrastive determiner: isabizwana esihlukanisayo / esiqhathanisayo 
+conversation: ingxoxo, inkulumo 
+convincing character: umlingiswa owanelisayo /okholekayo 
+copula: ikhophula; isakhi esihlanganisayo 
+copulative: isibanjalo 
+(associative): isibanjalo esihlanganisayo 
+(demonstrative locative): isibanjalo sokukhomba sendawo 
+deideophonic: 
+(descriptive) isibanjalo esichazayo 
+(identificative): isibanjalo esihlungayo 
+(non-stative): isibanjalo esingesiso esesimo 
+(stative): isibanjalo sesimo 
+couplet: umigqambili 
+crisis: inhlekelele 
+criterion: isinqumiselo; umgomo 
+critical: -neso elihlabayo / elihlolayo 
+criticise: -hlaziya, -hluza, -sola 
+criticism: ukuhlaziya, ukuhluza 
+critique: umhlaziyo, umhluzo 
+cross linking: ukuxhumanisa okuyisiphambano 
+cross rhyme: imvumelwano eyisiphambano
+dactyl: idakthili (ilunga eligcizelelwe elelanywa ngelingagcizelelwe) 
+data: imininingwane, idatha 
+debate: inkulumompikiswano, impikiswano 
+deep structure: isakhiwo esijulile 
+defective verb: isenzo esiphundulekile 
+deficient (auxiliary) verb: isingasenzo 
+definite: okusobala, okucacile 
+degree of tongue raising: isiliganiso sokuphakama kolimi 
+deictic: -khombayo 
+deideophonic extension: isakhisenzo ngesenzukuthi, isib. -petu- -peluka, -petula; -bhodlo-, -bhodloza 
+delayed voicing: ukuthendemuza kwezwi 
+delete: -khipha, -susa 
+deletion: ukukhipha, ukukhishwa; ukususa, ukususwa 
+deletion process: inqubeko yokukhipha
+demonstrative: -khombayo, ukukhomba 
+demonstrative pronoun: isabizwana sokukhomba 
+denouncement: ibohlololo, umqaqafindo 
+dental: umanzinyweni 
+dental click: ungwaqabathwazinyweni 
+dental consonant: ungwaqazinyweni 
+dentilabial/labiodental: undebezinyweni 
+derivation: ukwakhiwa; imvelaphi, ukususela 
+derivational morpheme: imofimi eliqambayo 
+derive: -susela, -thola, -vela, -zuza, -qamba 
+derived interjective: isibabazo sokuvela / sokususelwa / sokuqanjwa 
+derogative: -jivazayo 
+describe: -chaza, -eneka 
+description: ukuchaza, ukuchazwa, ukweneka, ukwenekwa 
+descriptive: isikhanyiso, -khanyisayo 
+direct: 
+descriptive adjunct: isengezo; isiphelelisi esichazayo/esikhanyisayo 
+descriptive copulative: isibanjalo esichazayo 
+detail: umnombo, umniningwane 
+detective: umseshi / umphenyi 
+detective story: inoveli yophenyo 
+determiner: isilawuli, isiqinisi 
+deverbative: idivebhethivi, uvelesenzweni (ibizo elivla esenzweni) isib. umbhali, imbazo, isifo, njll 
+diachronic: idayakhronikhi, ngokomlando wa ... 
+diacritic: idayakhrithiki, uphawana 
+diagram: umdwebo 
+diagram (tree-): umdwebo osasihlahla 
+dialect: idayalekthi, ulimi lwesigodi 
+dialectal: ngolimi lwesigodi 
+dialogue: idayalogi; inkulumompendulwano 
+diaphragm: untu 
+diction: ukuphimisela; ukusetshenziswa kwamagama 
+didactic: -fundisayo 
+didactics (subject-): isifundo samasu okufundisa, isifundokufundisa 
+dimetre: unyathelombili 
+diminishing stanza: indima enciphayo; ibinza elinciphayo 
+diminutive: isinciphiso 
+diphthong: idifthongi, unkamisamaphahla, isib. weak, peep, tooth 
+direct object: umenziwangqo, umenziwa oqondile 
+direct relative: isibaluli esiqondile  
+direct relative construction: isakhiwo esiqondile sesibaluli 
+direct speech: inkulumongqo / inkulumoqho 
+direction of airstream: umzila womgudu womoya 
+discourse: inkulumo 
+discussion: ingxoxo, inkulumo 
+disjunctive writing: ukubhala okwehlukanisayo 
+dispersive extension: impambosi yasendulo u-alal- isib. cambalala embhedeni 
+dissimilation: inhluko 
+distinctive feature: uphawu olwehlukanisayo; uphawu oluqhakambisayo
+distribution of sounds: ukuhleleka kwemisindo 
+disyllabic: -namalunga amabili, -malungambili, 	umalungamabili 
+ditransitive: nomenziwa /nabenziwa ababili 
+division: ukwehlukanisa 
+dogma: imfundiso engaphikiswa 
+double transitive: -nabenziwa / nomenziwa ababili 
+drama: idrama, umdlalo 
+dramatic method: indlela yobudrama / yomdlalo / esamdlalo 
+dramatic monologue: inkondlo kamakhulumayedwa 
+dramatist: umbhalidrama / umbhalimidlalo 
+durative aspect: isiqondiso esiqhubekayo  
+echo: isenanelo 
+effect: umphumela, impumelelo 
+effective communication: ukuxhumana okuzwakalayo 
+egressive airflow: isifutho somoya ophumayo 
+ejective: uputshu 
+element: isasakhilisamofimi 
+elemental: -sasakhi 
+elementary: -qalisayo, okuqalisayo 
+elementary concept: umqondo oqalisayo 
+elide: -eqa, -shiya 
+elision: ukweqa, ukweqiwa 
+elision (compulsory): ukweqa / ukweqiwa okuyimpoqo / okupho- qelekile 
+elision (optional): ukweqa / ukweqiwa kokuzikhethela 
+embedded sentence: umusho owembelwe 
+emotion: usinga, umzwelo, umoya 
+emotional: -thinta umoya 
+emotive value: okuthinta imizwa; okushukumisa imizwa 
+empathy: ukuzwelana na- 
+emphasis: isigcizelelo 
+emphasise: -gcizelela 
+emphatic: -gcizelelayo 
+emphatic determiner: isilawuli / isiqinisi sokugcizelela 
+enclitic: iselulelamuva, isib. Hamba-ke. Bayakhuluma nje 
+enjambement: injambementi 
+enumerative: inani 
+environment: indawo; isikhundla  
+epic: i-ephikhi (inkondlo ende yobuqhawe) 
+epigram: i-ephigremu (isisho esifushane esibukhali) 
+episode: isehlakalo, isigigaba, isiqephu 
+equilibrium: isilingano, ukulingana 
+essay: i-eseyi 
+essayist: umbhalima-eseyi 
+etymology: i-ethimoloji, imvelomagama, umlando wegama 
+eulogy: iyuloji, inkondlokubonga 
+euphemism: isihlonipho 
+euphemistic: -nenhlonipho 
+evaluate: -hluza, -hlaziya 
+evaluation: ukuhlaziya, inhluzo, ukuhluza  
+even-numbered class: isigaba esingelugweje 
+event: isehlakalo, isigigaba, isigameko 
+evoke: -banga, -vusa 
+exaggerate: -andisa, -khulisa, -banehaba 
+exaggeration: ihaba 
+example: isibonelo, isiboniso 
+exception: impambuko, impulamthetho 
+exclamation: isibabazo 
+exclamation mark: uphawu lwesibabazo 
+exclusive: -bandlululayo, -ehlukanisayo isib. -dwa  
+exclusive aspect: isiqondiso esesenzeka (manje) 
+exercise: inhlelembo, umsebenzi, isivivinyo 
+exhortative: -layezayo, isib.  			
+experience: ukwazi, amava, -vuthwa, ukuvuthwa; -nenjwayelo, ukuba nenjwayelo (lokho okufundwa umuntu empilweni yakhe ngokuhlangabezana nezimo ezahlukene) 
+explain: -cacisa, -chaza 
+explanation: incazelo, ukucacisa 
+incachiselo: ukuchaza, ukuchazwa 
+exposition: isethulo, impendle 
+expository method: indlela yesethulo 
+explosive: umadubulelaphandle, ubhamphandle 
+express: -sho, -shono, -thi 
+expression: isaga, isisho 
+expressive: -zwakalisayo 
+expulsion: ukukhipha, ukukhishwa 
+extension: impambosi, iselulo 
+extensive extension: impambosi yasendulo, isib. u-bul- isib. -bhambabula, -thaxabula
+fable: ifebula (inganekwane yaphesheya) 
+fairy: iferi (isidalwa esithandekayo, esisizayo sezinganekwane zaphesheya) 
+fairy tale: inganekwane yamaferi 
+falling action: isenzeko esidambayo 
+falling tone: ithoniliphimbo elehlayo 
+fantasy: umcabango-wongowongo 
+farce: igidigidi, umdlalo ohlekisayo 	
+feature: uphawu, isimo, umumo 
+feeling: uzwelo 
+fellowship: ukwandisa ukwazana / ukwejwayelana / ukusebenzelana, inhlanganyelo 
+feminine: isifazane, ubulilikazi 
+fiction: ifikshini, indaba esuselwa ekhanda 
+fictional narrative: ingxoxo esuselwa ekhanda 
+figure: umdwebo, isithombe 
+figurative: -fanisayo; okufanisayo 
+figure of speech: isifengqo / iSifenqo, inkulumo efanisayo 
+final linking: ukuxhumana-sigcino 
+final rhyme: imvumelwano-sigcino 
+first person: okhulumayo 
+first person narrator: umlandi ozikhulumelayo 
+flat character: umlingiswa ongadelisi / oyisicaba 
+fluency: ukuqephuza, ukuqavitha, ukuqeketha 
+fluent: -qephuzayo, -qavithayo, qekethayo 
+foil: ifoyli (umlingiswa ogqamisa isimo somunye ngokuphikisana noma ngokuqhudelana naye) 
+folk etymology: isibizakabusha (inguqulompimiso_ magama; isib. uJantoni, uSomtsewu, umalaleveva, njll.) 
+folktale: inganekwane (umzekeliso, inganeko, insumo) 
+forceful: -namandla 
+form: isimo, isakhiwo 
+formative: isakhi 
+formula: ifomyula, ifomula
+hearer: umlaleli, olalele 
+hero: iqhawe, umlingiswa osemqoka 
+heroine: iqhawekazi, umlingiswakazi osemqoka 
+heroism: ubuqhawe 
+heterorganic: -phinyiselwa ndawondawo (-phinyiselwe ezindaweni ezahlukene) 
+heteronym: ihetheronimi, uncazeloningi 
+hexameter: iheksamitha, unyathelosithupha 
+high vowel: unkamisa ophakeme 
+high pitch: izwi eliphakeme 
+high tone: ithoni/iphimbo eliphakeme 
+historical linguistics: ilingwistiksi yomlando, umlando wemithetho yokufunda ulimi 
+historical narrative: indaba yomlando 
+historical novel: inoveli yomlando 
+hlonipha-terms: amagama enhlonipho / okuhlonipha 
+homicide: ihomisaydi, ukubulala umuntu ngephutha 
+homonym: ihomonimi, umabizwafane 
+homophone: ihomofoni, umsindofana (umsindo ofana nomunye) 
+homorganic: -phinyiselwa ndawonye 
+homorganic nasal: umankankana 
+image / parable: umfanekiso, isithombe 
+imagery: ukufanekisa; umfanekisomqondo, isithombemagama 
+imagination: umcabango, okucatshwangayo 
+immediate past tense: inkathi esandodlula 
+imperative mood: indlela ephoqayo / yempoqo 
+implosive 'b': umbibithwa; umadubulelaphakathi, ubhamphakathi 
+imply: -gigiyela, -gudlisela 
+inceptive aspect: isiqondiso esiqalisayo 
+incident: isigameko; isehlakalo 
+inchoative verb: isenzoqalasimo (isenzo esikhombisa ukuqala kwesimo, isib. -hlala, -lala; -onda, -khuluphala, njll) 
+inclusive: -bandakanyayo; -qoqayo 
+inclusive quantitative pronoun: isib. '-nke'; isabizwana sokubala esiqoqayo, 
+indefinite Subject concord: isivumelwano sokunto, isib, 'ku-' 
+independent: -zimele; okuzimeleyo 
+indicative mood: indlela eqondisayo 
+indigenous: -emvelo; -okudabuka-; -omdabu 
+indirect: umenziwa 
+indirect object: umenziwa (isiduko) ongaqondile 
+indirect relative construction: isakhiwo sesibaluli esingaqondile 
+indirect speech: inkulumombiko 
+infinitive mood: indlela esabizosenzo 
+infinitive verb: ibizosenzo 
+infix: isifakelo; isigxumeko 
+inflectional morpheme: imofimi elingaqambi 
+influence: -thonya; ithonya 
+influencing conjunctive: isihlanganiso esinethonya / esithonyayo 
+in full: ngokuphelele 
+ingressive airflow: isifutho somoya 
+initial linking: ukuxhumana-siqalo esingenayo 
+initial rhyme: imvumelwano-siqalo 
+initiation: ukuthwasisa; ukuphemba 
+impersonal noun: ibizonto 
+impersonal subject concord: isivumelwano sokunto, isib. 'ku-' 
+imported word: umfakela 
+inserted clause: umshwana ofakiwe 
+insinuate: -sikisela; -yingiliza 
+insinuation: ukusikisela; ukuyingiliza 
+inspire: -vusa ugqozi / usinga 
+inspiration: ugqozi; usinga 
+instrumental adjunct: isengezo sokusebenzisa, isib. UJabu usika ngommese 
+instrumental adverb: isandiso sokusebenzisa, isib. Bahamba ngezinyawo 
+introduction: isethulo 
+instrumental morpheme: imofimi lokusebenzisa, isib. nga- + usobizo 
+instrumental relationship: ubudlelwane bokusebenzisa 
+intensify: -khulisa 
+intensifier: isikhulisi 
+intensity: ukukhulisa 
+intensive extension: impambosi yokwenzisisa 
+intercostal muscles: imisipha yezimbambo 
+interjection: ukubabaza 
+interjective: isibabazo 
+internal action: isenzeko esingaphakathi / sangaphakathi 
+internal conflict: udweshu olungaphakathi / lwangaphakathi 
+internal rhyme: imvumelwano-maphakathi; imvumelwano emgqeni 
+internalise: -azi ngekhanda, -funda ngekhanda 
+International Phonetic Association: ubhalojikelele lwefonethiksi 
+interrogative: isibuzo interrogative enclitic: iselulelamuva sesibuzo 
+interview: inhlolankulumo; inhlolokhono 
+intonation: ubuviyoviyo; ukwehla nokwenyuka kwezwi nxa kukhulunywa 
+intransitive verb: isenzo esingenamenziwa / esingenasiduku 
+intransitivity: ukungabi namenziwa 
+introduce: -ethula; -ngenisa 
+introduction: isethulo; isingeniso 
+idea: icebo, umcabango, umbono 
+identical: -fanayo 
+identify: -khomba, -hlunga 
+identification: ukukhomba, ukuhlunga 
+identificative copulative: isib. njalo esihlungayo 
+identity: isazisi, uhlonze 
+ideophone: isenzukuthi 
+idiom: isisho 
+idiomatic: -bunyoninco 
+idiomatic expression: isisho sobunyoninco 
+irony: isibhinqo, umbhinqo 
+irregular stanzas: izindima ezingalingani 
+irregular verb endings: iziphetho zezenzo eziphundulekile, isib. -azi, -thi, -sho 
+investigate: -cubungula, -hlola, -hlolwa, -phenya 
+involuntary: -zenzakalelayo; zenzelayo 
+italics: ama-ayitheliksi, omalukeke 
+limited: isigcawu esinqunyelwe 
+limited time: isikhathi esinqunyelwe 
+line: ulayini; umugqa 
+linguistics: ilingwistiksi; isayensizilimi; ucwaningozilimi; imithetho yokufunda ulimi 
+linguistic competence: ikhono lokusebenzisa ulimi; ulwazi lolimi 
+linguistic language: ulimi lwelingwistiksi/locwaningo zilimi 
+linguistic performance: ukusebenzisa ulimi; ukusetshenziswa kolimi 
+linking: ukuxhumanisa 
+linking (cross-): ukuxhumanisa-siphambano 
+linking element: isasakhi / isamofimi esixhumanisayo 
+linking (final-): ukuxhumanisa-sigcino 
+linking (initial-): ukuxhumanisa-siqalo 
+linking (oblique-): ukuxhumanisangxemu; ukuxhumanisa okutshekile 
+lip; lips: udebe; izindebe 
+lip rounding: ukudingilizisa izindebe 
+literal meaning: umqondo osobala 
+literary meaning: okushiwo okubhaliweyo 
+literary work: umsebenzi wobucikomagama; umsebenzi welithrisha 
+literate: -litherethi, -fundile 
+literature: ilithrisha; ubucikomagama 
+litotes: ivumangokuphika; isigcizelelo-kuphika 
+local: -akuleyo ndawo 
+locality: isifunda; isigodi; indawo 
+locative: undaweni; isandiso sendawo 
+locative class: isigaba sikandaweni; isigaba sesandiso sendawo, isib. isigaba 16 nesigaba 17 
+locative demonstrative copulative: isib. nangu, nazi, njll isibanjalo sendawo sokukhomba 
+locative prefix: isiqalo sikandaweni; isiqalo sesandiso sendawo, isib. le-, lo-, njll 
+locative relationship: ubudlelwano bukandaweni, isib. isikole engifunda kuso  
+locative stative extension: impambosi yasendulo u-am- isib. -khothama, -khotheme 
+locative suffix: isijobelelo sikandaweni, isib. -eni, -ini , -weni, -wini 
+locative/locativised noun: ibizo eselingundaweni, isib. inja > enjeni 			
+long form: isimo eside; isakhiwo eside
+long syllable: isilabuli elide; ilunga elide 
+low pitch: izwi eliphansi 
+low tone: iphimbo eliphansi 
+low vowel: unkamisa ophansi, isib. 'a' 
+lower jaw: umhlathi ongaphansi 
+lung: iphaphu 
+legend: umzekeliso 
+legendary figure: umlingiswa womzekeliso 
+length: ukudonsa; ubude 
+length (full-): ukudonsa okuphelele /:/ 
+length (half-): ukudonsa okungaphelele 
+length (normal-): ukudonsa okwejwayelekile 
+length (short-): ukudonsa okufishane 
+letter (alphabet): uhlamvu; unobumba 
+letter (capital-): ufeleba; unobumbakazi 
+letter (small-): unobumbana 
+lexeme: ileksimi (uhlamvu noma umuvo wegama omncane kunayo yonke eminye, omisuka yalo ingenangqondo ngaphandle kweminye isib. 'dinsi': u-di akezwakali ngaphandle kuka-nsi 
+lexical interpretation: isichasiselo segama 
+lexical meaning: umqondo wegama 
+lexical/semantic morpheme: imofimi elinomqondo/ elinencaciselo 
+lexical/semantic tone: iphimbo / ithoni legama 
+lexicon: ileksikhoni; iqoqo lamagama 
+limitation: umkhawulo; ukunqumela 
+limited omniscience: ukwazikonke okunomkhawulo 
+limited space: indawo enqunyelwe 
+juxtapose: -akhelanisa; -melanisa; -ncikanisa; -sondelanisa 
+juxtaposition (in-): -akhelene; -melene; -ncikene; -sondelene 
+midfront: osemuva maphakathi ophakeme [ 0] 
+midfront unraised vowel: unkamisa ophambili maphakathi ongaphakeme [£] 
+midfront raised vowel: unkamisa ophambili maphakathi ophakeme [ e] 
+midpoint: indeni 
+midriff: untu 
+migrate: -fuduka 
+migration: imfuduko; ufuduko 
+milieu: imilyu; ubunjalo nenhlalo yendawo; isimo senhlalo; isizinda 
+milieu (physical-): imilyu yesimo sendawo nemvelo, isizinda esibonakalayo 
+milieu (non-physical-): imilyu engabonakali; isizinda esingabonakali 
+minor characters: abalingiswa abancane 
+minstrel: iminstreli (umculi oshaya nesigingci) 
+modal: imodali, ivezamuzwa 
+model: isifanekiso; isilinganiso 
+modernism: isimanje, ulimi lwesimanje, inhlaziyolimi yesimanje 
+modern poetry: inkondlo yesimanje 
+modern times: izikhathi zesimanje 
+modification: inguquko, ukuguquka 
+modifier: isiguquli 
+modify: -guquguqula 
+monologue: imonologi (isigcawu sikamakhuluma-yedwa) 
+monomorphemic: isakhiqho esisodwa, -nemofimi linye; umofimilinye 
+morphological: ulungalinye 
+monosyllabic: -nelunga elilodwa 
+mood: indlela (yesenzo) 
+mood (imperative): indlela ephoqayo 
+mood (indicative): indlela eqondile / eqondisayo 
+mood (infinitive): indlela esabizosenzo 
+mood (participial/situative): indlela yesimo 
+mood (subjunctive): indlela encikile / encikayo; indlela eyamile 
+moral: isifundiso 
+moral lesson: isifundiso sobuqotho 
+moralistic: -shumayezayo; -nesifundiso 
+morph: imofu/isakhi 
+morpheme: imofimi; isakhiqho 
+morpheme (aspectual): imofimi lesiqondiso 
+morpheme (bound): imofimi elingazimeli 
+morpheme (derivational): imofimi eliqambayo 
+morpheme (free): imofimi elingazimela 
+morpheme (grammatical): imofimi lohlelo 
+morpheme (inflectional): imofimi elingaqambi 
+morpheme (lexical): imofimi elichasisayo  
+morphological: ngokwensebenzomofimi; mayelana nemofoloji 
+morphological elision: ukweqiwa kwemofini; ukukhishwa kwemofimi  
+magazine: imagazini; ibhuku 
+main clause: umshwana oyinhloko 
+main plot: iplothi esemqoka, isakhiwo esisemqoka, uhlaka olusemqoka 
+main stress: isigcizelelo esikhulu / esibalulekile 
+major characters: abalingiswa abaqavile / abasemqoka 
+manner of articulation: indlela yokuphimisela 
+manuscript: imenyuskripthi, um-bhalo ongashicilelwe 
+mark: maka; -phawula 
+marker: isibonakalisi 
+marker (aspectual-): isibonakalisi sesiqondiso 
+marker (negation-): isibonakalisi sokulandula 	 
+meaning: umqondo; incazelo 
+meaning (affective-): umqondo othintene
+meaning (collocational): umqondo olandelanayo / onikezelanayo 
+meaning (conceptual): umqondongqo 
+meaning (connotational): incazelo ecashile 
+mofini; ukweqa / ukweqiwa kwemofimi ngokohlelo 
+morphology: imofoloji; insebenzozakhi; isayensi yokubunjwa / yokwakhiwa kwamagama 
+morpho phonology: imofofonoloji (isayensi yokubunjwa kwamagama nokuguquka komsindo wawo) 
+motif: imothifi; ingqikithana yendaba; umuvomqondoqho (isici esigqamile noma umqondo owengamele emsebenzini wobuciko noma owelithrisha 
+motifeme: imothifimi / umuvomqondo (uhlamvu noma umuvo womqondo omncane kunayo yonke eminye emisha yayo ezimele - isihlangene iba imothifi) 
+motive: isisusa 
+motoriallmotoric moment: umzuzu wokuqalisa umnyakazo emdlalweni wedrama; isiphembakubhebhetheka 
+motto: imotho, isaga esiwumgomo 
+murmured voice: izwi elizikayo 
+myth: inganeko 
+mythical: -nobunganeko 
+naming technique: isu lokwetha / lokuqamba igama 
+narrate: -landa; -xoxa 
+narration: ukulanda; ingxoxo  
+narrative: -landayo; -xoxayo  
+narrator: umlandi 
+non-nasal: -akumakhaleni; -akumankankane
+narrator's viewpoint: isolisu lomlandi; umbono ngokubona komlandi 
+nasal: ungwaqamankankana; umankankana; ngamakhala 
+nasal classes: izigaba zawomankankana, isib. 1,3,4; 6 nese-9 
+natural phenomena: okwenzeka ngemvelo 
+negation marker: isibonakalisi sokulandula 			
+negative conjugation: ukuhlela / ukuhlelwa (kwesenzo) okulandulayo 
+negative verb: isenzo esilandulayo / esiphikayo 
+negative progressive aspect: isiqondiso esiqhubekayo esiphikayo 
+neologism: igama eliqanjwe kabusha; ukuvela kabusha kwamagama 
+neuter / stative extension: impambosi yokwenzeka / yokwenzakala: I akal- , -al-, -ek-  
+neutral: -ngagaxekile / -ngachemile 
+neutral vowel: unkamisa ongagaxekile [a-] 
+node: inodi, ilunga 
+nominal relative stem: isiqu sesibaluli esivela ebizweni 
+non-influencing conjunctive: isihlanganiso esingathonyi / esingenathonya 
+non-literal: umqondo ongekho obala 
+non-nasal classes: izigaba ezingezona zawomankankana; izigaba ezingenabo omankankana 
+non-productive extensions: izimpambosi zasendulo ezingakhiqizi 
+contactive extension: impambosi yasendulo u-oth- 
+dispensive extension: impambosi yasendulo u-alal- 
+extensive extension: impambosi yasendulo u-bul- 
+locative / positional extension: impambosi yasendulo u-am- 
+persistive extension: impambosi yasendulo u-ezel- 
+reversive intransitive extension: impambosi yasendulo u-buk- 
+reversive transitive extension: impambosi yasendulo u-bul- 
+contactive extension: impambosi yasendulo u-al- 
+non-stative copulative: isibanjalo esingesiso esesimo 
+non-verbal relative: isibaluli esingaveli esenzweni 
+norm: inkambiso 
+norm (morpheme): imofimi lenkambiso, is ib. isivumelwano senhloko
+normal length: ukudonsa okwejwayelekile 
+noun: ibizo 
+noun (abstract-): ibizosimo 
+noun (animate): ibizompilo 
+noun (collective): ibizoqoqa 
+noun (common): ibizomvama 
+noun (derived): ibizo lokuvela 
+noun (personal): ibizomuntu  
+noun (impersonal): ibizonto 
+noun (proper): ibizoqho 
+noun class prefix: isiqalo sebizo 
+noun phrase: ibinzana lebizo 
+novel: inoveli 
+novelette: inovelana 
+novelist: umbhalinoveli; umbhali wenoveli 
+number: inamba, ubungako; inombolo 
+number (plural): ubuningi 
+number (singular): ubunye 
+numeral: inani, inamba, inombolo 
+object: umenziwa, isiduku 
+object (direct): umenziwangqo, umenziwasiduku 
+object (indirect): umenziwa ongaqondile 
+object (preposing): ukubeka umenziwa phambili; ukubekwa phambili kukamenziwa 
+objectival concord: isivumelwano sikamenziwa / somenziwa 
+objectival morpheme: imofini likamenziwa / lomenziwa 
+objective: 1. impokophelo; 2. okungachemile 
+objective viewpoint: umqondo wokulanda ongenganyelwe 
+obligation: isibopho 
+obligatory: -yisibopho 
+oblique linking: ukuxhumana okunxemu / okutshekile 
+oblique rhyme: imvumelwano etshekile 
+octet: umigqasishiyagalombili 
+odd-numbered class: isigaba esilugwejwe 
+ode: i-owdi; inkondlomzwangedwa 
+officially: ngokomthetho 
+olden days: endulo, izikhathi zakudala 
+omniscience: ukwazi konke 
+omniscient: usokuhlakanipha; onolwazi; owazikonke 
+one-act play: umdlalo onkundlanye 
+onomatopoeia: isifanisamsindo; ifuzamsindo 
+optative: okusho isifiso; uhlobo lwesenzo esisho isifiso 
+optional elision: ukweqa / ukweqiwa ngokuzikhethela 
+optional use: ukusebenzisa / ukusetshenziswa ngokuzikhethela 
+oral: -omlomo; ngomlomo; ngabhaliwe 
+oral airstream: umgudu womoya wasemlonyeni 
+oral cavity: isikhoxe somlomo 
+oral literature: ilithrisha yomlomo / engabhalwanga; ubuciko bomlomo 
+oral plosive: umadubulela emloyeni 
+oral stop: uvinjwamlonyeni 
+orally: ngomlomo 
+ordinary: -jwayelekile; -jwayelwe; -vamile 
+ordinarily: ngokwejwayelekile; ngokuvamile 
+organs of speech: izitho zokukhuluma 
+passive: -ngaqondileyo 
+orthography: ubhalomagama 
+overlap: -gamanxa 
+overlapping: -gamenxe; ukugamanxa 
+overtone: i-ovathoni (izincazelo zomqondo wegama noma webinzana) 
+overture: isandulelo 
+oxymoron: impikisamqondo 
+palatal: ulwangeni 
+palate: ulwanga 
+palatalisation: ukulwangisa 
+pamphlet: iphamflethi 
+parable/image: umfanekiso 
+paradigm: ipharadaymu; isibonelo; iphethini 
+paradox: indida 
+paragon: isimo esihle 
+paragraph: ipharagrafu; isigaba esiphelele embhalweni 
+parallel: imigqa elinganisene; -hambisa na -; -linganisa na  
+parallelism: impindamqondo 
+parameter: ipharamitha; umkhawulo 
+pararhyme: imvumelwanongwaqa 
+parenthesis: izibiyelo; abakaki 
+participial mood: indlela yesimo 
+passive articulators: iziphimiseli ezinganyakazi 
+passive extension: impambosi yokwenziwa 
+passive morpheme: imofimi lempambosi yokwenziwa,/ {-w-) _ -iw- 
+passivisation : ukufaka / ukuguqulela empambosini yokwenziwa 
+past continuous tense: inkathi edlule esaqhubeka 
+past tense: inkathi edlule 
+past subjunctive: indlela encikayo 
+pattern: iphethini; isifanekiso 
+pause: ikhefu; isikhawu ukuhlaba / ukuthatha ikhefu 
+pentameter: iphentamitha; unyathelonhlanu 
+perception: ukubona; ukuqonda, ukuzwa 
+perceive: -qonda; -bona 
+perfect aspect: isiqondiso sokwenzekile 
+perfect ending: isiphetho esiphelele 
+perfect extension: impambosi yokwenzekile 
+perfect tense: inkathi ephelele 
+performance: ukusebenza 
+peripet: ipheriphethi; inguquko; ukuguquka kwenhlanhla edrameni noma empilweni 
+persistive extension: impambosi yasendulo u-ezel- isib. -cindezela; -bambezela 
+person (1st, 2nd + 3rd): okhulumayo; okukhulunywa naye; okukhulunywa ngaye 
+personal classes: izigaba zabantu; izigaba eziphathelene nabantu    
+personal deverbative: ibizomuntu (ibizo elivela esenzweni) 
+personification: isenzamuntu 
+pharynx: ifarinksi; umphimbo phrase 
+pharyngeal: -phathelene nomphimbo 
+pharyngeal sound: umsindo womphimbo, umphinjeni 
+phase: ifeyzi, inkathi 
+philology: ifiloloji; isayensi yolimi; isiqhathanisazilimi ngokomlando (umlando walo nokuqhathaniswa kwalo nezinye) 
+phone: umsindo 
+phoneme: ifonimi; umsindoqho (uhlamvu noma umuvo womsindo wenkulumo omncane kunayo yonke eminye, omisuka yayo ingenangqondo ngaphandle kweminye) 
+phonetics: ifonethiksi / ifonetiki imfundomisindo; isayensi yokuphinyiselwa kwemisindo yenkulumo 
+phonetic orthography: i-othografi yefonethiksi; ubhalomagama lwefonethiksi; ubhalomagama lwemfundomisindo 
+phonetic description: ukuchaza / ukuchazwa ngefonethiksi / ngemfundomisindo 
+phonetic transcription: ukubhala ngefonethiksi 
+phonological rules: imithetho yefonoloji / yoguquko-misindo / yensebenzomisindo 
+phonology: ifonoloji; uguqukomsindo; insebenzomisindo (isayensi yokuguquka komsindo wenkulumo) 
+phrase: ibinzana 
+phrase (adverbial-): ibinzana  
+phrase marker: isibonakalisi sebinzana 
+phrase (noun-): ibinzana lebizo 
+phrase (prepositional-): ibinzanambekwaphambili 
+phrase (quantitative-): ibinzana lesichasiso 
+phrase (relative-): ibinzana lesibaluli 
+phrase structure rules: (PS-rules) imithetho yokwakhiwa kwamabinzana 
+phrase (verb-): ibinzana lesenzo 
+pithy: -nomongo 
+place (adverb of): undaweni; isandiso sendawo 
+plagiarism: iphlejyarizimu; ukuntshontsha okuqanjiwe 
+plan: icebo; isu; iplani; -plana; -hlela 
+plain adverbial relationship: ubudlelwane besibaluli obusobala 
+plain objectival relationship: ubudlelwane bomenziwa (besiduku) obusobala 
+plosive: ubhamu; umadubula 
+plot: iplothi, icebo, isakhiwo 
+plural: ubuningi 
+poem: inkondlo 
+poet: imbongi; umqambinkondlo 
+poetic technique: isu lobunkondlo 
+poetry: ubunkondlo 
+point: iphoyinti, isihloko; iphuzu 
+point of articulation: indawo yokuphimisela 
+point of view: iso/isu lomlandi 
+polyseme: ipholisimi; umqondo 
+quadrisyllabic: umalungamane; -namalunga amane 
+qualificative: isichasiso; -chasisayo 
+quantitative pronoun: isabizwano sokubala   
+prepalatal: phambi kukalwangeni; ulwangeni 
+preposition: umbekwaphambili 
+pre-prefix: isiqalo sesiqalo 
+present tense: inkathi yamanje 
+preverbal: phambi kwesenzo 
+primary: -qalisayo 
+primary vowel: unkamisa oqalisayo / wemvelo 
+primitive: -asendulo / -emvelo 
+primitive conjunctive: isihlanganiso sasendulo / semvelo 
+primitive ideophone: isenzukuthi sasendulo 
+primitive interjective: isibabazo sasendulo 
+principle: umgomo; isimiso; umthetho 
+process: inqubeko; inqubo 
+proclitic: iselulelaphambili 
+productive extensions: izimpambosi ezikhiqizayo 
+progressive aspect: isiqondiso esiqhubekayo / esisaqhubeka 
+progressive assimilation: isifanisana / isifuzisano esiqhubekayo 
+pronoun: isabizwana 
+pronominal: -phathelene nesabizwana 
+pronominal stem: isiqu sesabizwana 
+pronominalisation: ukuguqulela esabizwaneni; ukusebenzisa njengesabizwana 
+pronunciation: ukuphimisela; ukuphinyiselwa 
+proper noun: ibizoqho 
+prosaic: -saphrozi  
+polysyllabic: umalungamaningi; -namalunga amaningi 
+positional extension: impambosi yasendulo u-am- isib. -cathama, -catheme 
+positive: -vumayo; ukuvuma 
+positive conjugation: ukuhlela okuvumayo 
+possessive: ubumnini 
+possessive concord: isivumelwano sobumnini 
+possessive pronoun: isabizwana sobumnini 
+possessive relationship: ubudlelwane bobumnini 
+possessor: umnini 
+post nominal: emva kwebizo 
+post verbal: emva kwesenzo 
+potential: -nokwenzeka; -namandla 
+potential aspect: isiqondiso samandla / esinokwenzeka 
+practical: -enzekayo; -sebenzayo 
+practical orthography: i-othografi esebenzayo; ubhalomagama olwejwayelekile 
+practicable: -nokwenzeka; -nokusebenza; -ngenzeka; -ngasebenza 
+praise poem: izibongo 
+praises: izibongo 
+precis: iphresi; isifinyezondaba; umongo wendaba; indaba efinyeziwe 
+predicate: isilandiso 
+prefix: isiqalo; isiphongozo 
+pre-locative -s-: u-s- owandulela undaweni 
+pre-nominal: phambi kwebizo 
+prose: iphrozi 
+prosodic elements: izingxenye zephrosodiksi; izingxenye zethiyori nokusetshenziswa kwesigqi senkulumo 
+prosodics: iphrosodiksi (isifundo semithetho yesigqi senkulumo) 
+prosody: iphrosodi; isayensi yesigqi senkulumo 
+protagonist: umlweli; ummeleli 
+proto: -qalisayo; -okuqala; -asendulo 
+proto forms: izimo zasendulo eziqalisayo / zokuqala 
+proverb: isaga 
+pulmonic airstream: umgudu womoya wasemaphashini 
+pun: iphani; ihlaya; ukudlala ngamagama 
+punctuation mark: isiphumuzi; izimpawu zokuloba 
+purpose: injongo; inhloso 
+putative: ngokungacatshangwa; ngodumo; ngokwaziwa; ngokungafuniselwa 
+putative properties: okwavezwa ngodumo; izimpawu ezingafuniselwa 
+quatrain: umigqamine 
+quinquesyllabic: umalungamahlanu; -namalunga amahlanu; -nhlamvunhlanu; -nezinhlamvu ezinhlanu 
+quintet: umigqamihlanu 
+quotation: umtomulo; ukutomula, ukucaphuna 
+quotation marks: osocaphuna 
+quote: -tomula / -caphuna 
+radio play: umdlalo weredyo; umdlalo womsakazo womoya 
+raised vowel: unkamisa ophakeme 
+range of meaning: ububanzi bomqondo 
+react: -buyisa; -buye kubuyise; -zwela; -phatheka 
+reaction: ukuphatheka; ukuzwela 
+read: -funda 
+real: -yikho / -qobo 
+real/true prefix: isiqalongqo / isiqalo soqobo 
+reciprocal extension: impambosi yokwenzana, / -an- - -on-  
+reduction: ukunciphisa; isinciphiso; ukufinyeza; isifinyezo 
+reduplication: ukuphindaphinda; ukuphindaphindwa 
+refer: -bhekisa; -dlulisela; -qondisa 
+referent: ophathelene na-; okuqondiswe ku- ... 
+referential: okuphathelanayo 
+reflexive morpheme: imofimi lokuzenza, isib. uyazibona 
+refrain: isiphindo; impindwa 
+regular suffix: isijobelelomvama / isijobelelo esisamile 
+regulation: isimiselo; umthethonqubo 
+relative: isibaluli 
+relative clause: umshwana wesibaluli 
+relative concord: isivumelwano sesibaluli 
+relative construction: umusho obalulayo; isakhiwo sesibaluli 
+relative phrase: ibinzana lesibaluli 
+relative phrase transformation: ukuguqula ibinzana lesibaluli; ukuguquka kwebinzana lesibaluli 
+relativisation: ukwenza isibaluli; ukuguqula kube isibaluli 
+remote future tense: inkathi eyofika 
+remote past tense: inkathi eyadlula 
+repetition: impinda; ukuphinda; ukuphindwa; isigcizelelo 
+research: -risesha; -cwaninga; -hlolisisa; ukucwaninga; ukucwaningwa; ukuhlolisisa; ukubheki- siswa; ukurisesha; ukuriseshwa 
+retrogressive assimilation: isifanisano/sifuziselo esihlehlayo 
+reversive-intransitive extension: impambosi yasendulo u-buk- isib. -dabuka 
+reversive-transitive extension: impambosi yasendulo u-bul- isib. -bhambabula, -embula 
+review: -bukeza; ukubukeza 
+rhetoric: ubuciko; ubugagu 
+rhetorical question: umbuzo obuciko ongadingimpendulo 
+rhyme: imvumelwano; amazwi avumelanayo ngomsindo 
+rhyme (cross-): imvumelwano eyisiphambano / enqumayo 
+rhyme (final-): imvumelwanosigcino 
+rhyme (initial-): imvumelwanosiqalo 	
+rhyme (internal-): imvumelwano yomugqa / maphakathi 
+rhyme (oblique-): imvumelwano etshekile 
+rhyme (para-): imvumelwanongwaqa 
+rhyming: -nemvumelwano 
+rhythm: isigqi 
+rhythmic: -nesigqi 
+rhythmic segment: ibinza lesigqi rib; ribs: ubambo; izimbambo 
+riddle: isiphicaphicwano 
+rising action: isenzeko esiphakamayo 
+rising tone: ithoni / iphimbo eliphakamayo 
+ritual: inkambiso; isimo senkonzo 
+Roman alphabet: i-alfabhethi lesiRoma; unobumba wesiRoma 
+romance: indaba yothando 
+romantic: -mangalisayo; -phathelene nothando 
+root: impande; umsuka 
+round character: umlingiswa oyindilinga / ophelele 
+sentence: umusho 
+round vowel: unkamisa osandilinga 
+rule: umthetho 
+salutation: isibingelelo 
+sarcasm: umbhuqo 
+satire: isathaya; umbhinqo 
+satiric: -bhinqayo 
+satirical comedy: ikhomedi ebhinqayo 
+saying: isisho 
+scene: isigcawu 
+secondary: -elekayo; -velayo 
+secondary vowel: unkamisa wokuvela / osuselwayo 
+semantic: -chasisayo; - chazayo; -phathelene nencazelo 	 
+semantic content: umthamo ochasisayo / wencazelo 
+semantic/lexical rules: imithethe yokuchasisa / yencazelo 
+semantic tone: iphimbo legama lokuchasisa / elichasisayo 
+semantics: isimenthiksi; imfundoncazelo 
+semi-colon: isemikholoni 
+semi-vowel: unxankanisa; usingankamisa; umpeza 
+sense: umqondo 
+sentence (interjective): umusho obabazayo 
+sentence (question): umusho obuzayo 
+sentence rhythm: isigqi somusho 
+sentence (statement): umusho olandayo 
+septameter: unyathelosikhombisa 
+septet: umigqasikhombisa 
+sestet: umigqasithupha 
+setting: isizinda 
+short form: isakhiwo esifushane 
+short length: ukudonsa / ukudonswa okufushane  
+short story: indaba emfushane 
+shortening: ukufinyeza 
+siftsei method: indlela yesiftsei 
+sign: inkomba; uphawu; isibonakaliso 
+signal: inkombisa 
+significant: -balulekile 
+simple character: umlungiswanje; umlingiswa olula 
+simple sentence : umushonje; umusho oqondile 
+singular: ubunye 
+skill; skills: ikhono; amakhono 
+sonnet: isonethi; ushuminane / inkondlo yemigqa (enemigqa) eyi-14 
+sound change: inguqukomsindo; ukuguquka komsindo 
+sound waves: amaza omsindo 
+speaker: isikhulumi; umkhulumi 
+speech: inkulumo 
+speech sound: umsindo wenkulumo 
+spelling: ispelingi; ukupela 
+spiritual: -komoya; -phathelene nokomoya 
+spoken language: ulimi olukhulunywayo 
+square brackets: abakaki abayisikwele 	
+stabiliser : isisimamisi 	
+subjective: -vunayo 
+stage: isiteji; ishashalazi 
+subjunctive mood: indlela encikayo 
+stage drama: idrama yasesiteji 	
+subordinate clause: umshwana 
+stageability : -dlalekayo; dlaleka (esiteji) 	
+subplot: iplothi elincane; isakhiwo 
+stanza: istanza; indima; ibinza esincane 
+state: isimo 
+substantive: usobizo 
+state of the glottis: isimo segilo 
+substitution: ukumela samaxhaka 	
+subtle: -nobuhlakani; -sithekile 
+suffix: isijobelelo 
+stative: -phathelene nesimo 	
+surface structure: isakhiwo 
+stative copulative: isibanjalo esisobala isibn. USipho uzoba uthisha. 	
+survey: umklamo; inhlolovo  
+stative extension: impambosi 
+suspense: ilukuluku; uheho 
+stative verb: isenzosimo 	
+syllabic: -yilunga; -salunga 
+stem: isiqu. 	
+syllabic consonant: ungwaqa 
+stop: umvinjwa 	oyilunga; ungwaqa osalunga 
+stress: isigcizelelo 	 
+stressed syllable: ilunga eligcizelelwe 	
+syllable: isilabuli; ilunga 
+stimulant: isivusi 	
+syllabus: isilabhasi 
+stimulate: -vusa; -khaliphisa 	
+symbol; symbolism: uphawu 
+stimulation: ukuvusa isimbolizimu 
+stimulus: -vusayo; okuvusayo,  
+structure: isakhiwo 	 
+style: indlela; inhlobo, umkhuba 	
+synonym: isinonimi, umqondofana 
+syntactical rules: imithetho yemisho nemishwana 
+subject: umenzi, inhloko; isihloko  
+subject concord: isivumelwano 	magama / yohlelomisho somenzi / senhloko 	 
+subject postponement: ukuhlehlisa nikezelana 	kwamagama / umenzi umqondo emshweni 
+subject transposition: 
+syntax: isintheksi; insebenzomagama; uhlelomisho (isayensi yobudlelwane bamagama emshweni) 
+synthesis: ukuhlanganisa 
+synthesise : -hlanganisa 
+system: isistimu; indlela; umthetho 
+taboo: -nqabela; -nqatshelwa; -ngavunyiwe 
+tabulate: -hlela 
+tautology : ithotholoji; impindampinda 
+technical: -theknikhali; -kobuciko obusetshenziswa kusayensi 
+technique: itheknikhi, isu 
+television: ithelevishini; umabonakude 
+tense: inkathi; -qina; -shaqeka 
+tension: ukuqinisa; ukushaqeka 
+terminology: itheminoloji; ihlelomagama 
+theatre: ithiyetha; inkundla yemidlalo 
+theme: indikimba 
+theory: ithiyori; umhlahlandlela 
+time: isikhathi 
+tip of tongue: inkotha; isihloko solimi 
+title: isihloko 
+tone: ithoni; iphimbo 
+tone (falling): iphimbo elehlayo 
+tone (high):  iphimbo eliphakeme 
+tone (low): iphimbo eliphansi 
+tone (rising): iphimbo eliphakamayo 
+umbrella term: igama elisingathayol 
+upper jaw: umhlathi ongaphezulu 
+underlying structure: isakhiwo esijulile 
+unrounded vowel: unkamisa ongandingilizisiwe 
+unvoiced sound: umsindo ongenazwi 
+uvula: ugovane 
+writing: ukubhala; isifundo sokufundisa ukubhala 
+vowel elision: ukweqa unkamisa; ukweqiwa kukankamisa 
+vowel raising: ukuphakama kukankamisa; ukuphakanyiswa kukankamisa 
+vowel variant: esinye isimo sikankamisa 
+vowel verb stems: iziqu zezenzo eziqalisa ngonkamisa 
+toneme: iphimboqho
+windpipe: uqhoqhoqho 
+word: igama 
+word categories: izinhlobo zamagama 
+word class: uhlobo lwegama 
+word group: umshwana; iqoqo lamagama 
+word order: ukulandelana kwamagama; indlela amagama alandelana ngayo 
+work: umsebenzi  
+i-Afrikhethi: Africate/affricative 
+isaga: proverb 
+isaga-mgomo: motto 
+isakhi: formative  
+isakhi sesivumelwano: agreement morpheme 
+-sasakhi: elemental 
+isasAkhi: element 
+isAkhasenzo ngesenzukuthi: deideophonic entension 
+isAkhisimbe / i-Alomofi: allomorph 
+isAkhiqho / iMofimi: morpheme 
+isAkhiqho esisodwa: monomorpheme 
+-sasAkhiqho esisodwa: monomorphemic 
+isAkhiwo: constitution; structure 
+isAkhiwo / iPlothi / uHlaka: plot 
+isAkhiwo eside: long form 
+isAkhiwo esifishane: short form 
+isAkhiwo esijulile: deep structure 
+isAkhiwo esisobala: surface structure 
+i-Alegori / indabamfanekiso: allegory 
+i-Alfabhethi / uhlu lwezinhlamvu zamagama: alphabet 
+i-Alofoni / umsindomumbe: allophone 
+i-Alomofi / isAkhisimbe : allomorph 
+-Andisa : exaggerate 
+-isAndiso: adverb 
+amAndla okwenza : ability 
+is-Andla: hand; handwriting 
+is-Andulelo: antecedent; overture 
+isAnya: gesture; body language 
+i-Anthonimi / isiphikisi / umqondophika: antonym 
+i-Aphostrofi: apostrophe 
+i-Asteriski: asterisk 
+i-Athikili / umBhalomcubungulo: article 
+ukwAzi / amava: experience 
+ukwAzikonke: omniscience 
+owAzikonke / usokuHlakanipha: omniscient 
+isiBabazo: exclamation 
+isiBaluli esiqondile: direct relati  
+ukwenza isiBalulili: relativisation 
+-Banga: cause 
+imBangalusizi: tragedy 
+imBangela: cause; stimulus 
+imbangela nomphumela: cause and effect 
+imBangi / umcelinselelo: antagonist / challenger 
+isiBanjalo: copulative 
+isiBanjalo esingesona esesimo: non-stative copulative 
+isiBanjalo esihlangantsayo: associative copulative 
+isiBanjalo esichazayo : descriptive copulative  
+isiBanjalo esihlungayo: identificative copulative 
+isiBanjalo sendawo / sokukhomba: locative demonstrative copulative 
+isiBanjalo sesimo / esisaBizo: stative copulative 
+ubuBanzi bomqondo: range of meaning 
+-Bhala: write 
+ukuBhala: writing; to write 
+uBhalomagama: orthography 
+uBhalomagama olwejwalekile: practical orthography 
+uBhalomagama lwefonethiksi / lwemfundomisindo: phonetical orthography 
+umBhalo: manuscript; written work 
+umBhalomcubungulo / i-Athikili: article 
+umBhalonhlekisa: burlesque 
+umBhalo welithrisha: literary work 
+iBhrosha: brochure; pamphlet 
+iBhukwana: brochure; pamphlet 
+isiBhunqo / umBhunqo: irony 
+umBhuqo: sarcasm 
+umBibithwa: implosive 'b' 
+iBinza lesigqi: rhythmic segment 
+iBinzana: phrase 
+iBinzana lebizo: noun phrase 
+iBinzana lesandiso: adverbial phrase 
+iBinzana lesibaluli: relative phrase 
+iBinzana lesichasiso: qualificative phrase 
+isiBopho: 
+iBinzana lesenzo: verb phrase 
+iBinzana mbekwaphambili: prepositional phrase 
+iziBiyelo / abakaki: parenthesis 
+imBizi / inKulekelo / umMemezi: apostrophe 
+iBizo: noun 
+iBizosimo: abstract noun 
+iBizo lokuvela / lokususelwa: derived noun 
+iBizombaxa / iBizongxube: compound noun 
+iBizompilo: animate noun 
+iBizomqondomunye / umqondofana / iSinonimi: synonym 
+iBizomuntu: personal noun 
+iBizomvama: common noun 
+iBizonto: impersonal noun 
+iBizoqho: proper noun 
+iBizoqoqa: collective noun 
+iBizosenzo: gerund; infinitive; verb-noun 
+isiBizo: vocative  
+umaBizwafane: synonym 
+umBombo: bridge of nose 
+isiBonakalisi: marker; sign 
+isiBonakalisi sebinzana: phrase marker 
+isiBonakalisi sokulandula: negation marker 
+isiBonakalisi sesiqondiso: aspectual marker 
+isiBonelo / isiBoniso: example 
+umaBonezwakala: audiovisual 
+-yisiBopho / -Phoqelela: obligation/responsibility 
+isiBopho: obligatory  
+thintene noBuhle: aesthetic 
+unoBumba: letter of the alphabet 
+unoBumbakazi / uFeleba: capital letter 
+unoBumbana: small letter 
+ukuBunjwa / ukuVezwa kwabalingiswa: characterisation 
+isiBuzo: interrogative 
+umBuzo : question 
+umBuzo obuciko / ongadingimpendulo: rhetorical question  
+-Caphuna / -Tomula: quote 
+ukuCaphuna / ukuTomula: to quote/quotation 
+umCaphuno / umTomulo: quotation 
+osoCaphuna: quotation marks 
+inCazelo ecashile: connotative meaning 
+inCazelo ethintene yomoya: affective meaning 
+iCebo: plan 
+usoCeleni / unHlangothini: lateral 
+isiChasiselo segama: lexical interpretation 
+ukuChaza ngefonethiksi / ngemfundomisindo: phonetic description 
+iCiko / iGagu / iNgcweti: artist 
+ubuCiko: art; rhetoric 
+-Cwaninga / -Cubungula: research 
+ukucwaninga: research; to research 
+uCwaningolulimi / iLingwistiksi eqhathanisayo: comparative linguistics 
+iDatha: data 
+inDatshana: article (written account) 
+iDayakhrithiki: diacritic mark 
+iDayalekthi: dialect 
+iDayalogi: dialogue 
+uDebe: lip 
+unDebeni: labial 
+unDebenimbili: bilabial 
+unDebenizinyo: dentilabial 
+inDida: paradox 
+uDikizela: trill / r / 
+ukuDingilizisa izindebe: lip rounding 
+ubuDlelwane obuhlanganisayo: associative relationship 
+ukuDonsa: length 
+ukuDonsa okufisha: short length 
+ukuDonsa okungaphelele: half length 
+ukuDonsa okuphelele: full length 
+ukuDonsa okwejwayelekile: normal length 
+iDrama efundwayo: closet drama 
+umDwebo osasihlahla: tree diagram 
+uDweshu: conflict 
+uDwi: hyphen  
+isEhlo: event 
+umEhluko: contrast 
+isElulelamuva: enclitic 
+isElulelaphambili: proclitic 
+isEnanelo: echo 
+isEngezo lesiPhelelisi: adjunct 
+isEnzamuntu / isiFanisamuntu: personification 
+-zEnzakalelayo / -zEnzelayo: involuntary 
+-Enzekayo: practical 
+ukwEnza isibaluli: relativisation 
+ukwEnza impambosi yokwenziwa: passivisation 
+-nokwEnzeka: practicable 
+isEnzeko: action; happening 
+isEnzeko esejwayekile: habitual action 
+isEnzeko esidambayo: falling action 
+isEnzeko esiqhubekayo: continuous/durative action 
+isEnzeko esiqoqene: concentrated action 
+umEnzeli: agent 
+ubudlelwani bo mEnzeli / bukamEnzeli: agentive relationship 
+umEnzi: doer; subject 
+ukuhlehlisa umEnzi: subject postponement 
+ukushintshanisa umEnzi: subject transposition 
+umEnziwa: object; patient 
+ukubeka umEnziwa phambili: object preposing 
+umEnziwangqo: direct object 
+umEnziwa oncikile: indirect object 
+isEnzo: verb 
+isEnzo esidinga umenziwa: transitive verb 
+isEnzo esingenamenziwa: intransitive verb 
+isEnzo esiphundulekile: defective verb 
+isingasEnzo: deficient verb 
+isEnzosimo / -ba: stative verb 
+isEnzosiqalosimo: inchoative verb 
+ukwEqa / ukwEqiwa: elision 
+ukwEqa unkamisa: vowel elision 	 
+ukwEqa kohlelo ngokwemofoloji: morphological elision 
+ukwEqa ngokuzikhethela: optional elision 
+ukwEqa okuyimpoqo: compulsory elision 
+i-Ethimoloji / imVelomagama: etymology 
+ukuFaka / ukuguqulela empambosini : passivisation 
+isiFakelo / isiXhumo: affix 
+umfakela: adoptive 
+uFanamsindo: alliteration 
+uFanangwaqa: consonance 
+uFanankamisa: assonance 
+umFanekiso: parable, image 
+isiFanelaniso: analogy 
+isiFanisamqondo: imagery 
+isiFanisamsindo / iFuzamsindo: onomatopoeia 
+isiFanisamuntu / isEnzamuntu: personification  
+isiFanisano: assimilation 
+isiFanisano / isiFuzisano esihlehlayo: retrogressive assimilation 
+isiFuzisano esingaphelele: partial assimilation 
+isiFuzisano esiphelele: complete assimilation 
+isiFanisano esiqhubekayo: progressive assimilation 
+-Fanisayo/okuFanisayo: figurative 
+uFeleba / unoBumbakazi: capital letter 
+isiFenqo / inkulumo efanisayo: figure of speech 
+iFiloloji / isiqhathanisazilimi ngokomlando: philology 
+iFikshini / indaba esuselwa ekhanda: fiction 
+isiFinyezo: abbreviation 
+-Fokisa / -Hlola: investigate 
+ukuFokisa / ukuHlola: investigation / to investigate 
+iFonethiksi / imFundomisindo: phonetics 
+iFonethiksi / imFundomisindo yokuzwakala: auditory phonetics 
+ubhalomagama lweFonethiksi / lwemfundomisindo: phonetic orthography 
+ukuchaza ngeFonethiksi / ngemFundomsindo: phonetic description 
+iFoni / umSindo: phone 
+iFonimi / iphimboqho: phoneme 
+iFonoloji / inSebenzomisindo: phonology 
+imFundomaphimbo/iThonethiksi: tonetics 
+imFundoncazelo / iSimenthiksi: semantics 
+iFoyli / umlingiswa ogqamisa isimo somunye: foil 
+umFuthwa: fricative 
+umFuthwambangqwa: affricative 
+isiFuzisela / isiFanisamsindo: onomatopoeia  
+isiGaba: class 
+isiGaba sebizo: noun class 
+iziGaba eziwugweje: odd-numbered classes 
+iziGaba ezingelugweje: even-numbered classes 
+iGagu / iCiko / iNgcweti: artist 
+ubuGagu / ubuCiko: art; rhetoric 
+-Gamanxa: overlap 
+ukuGamanxa: overlapping / to overlap 
+-Gamanxayo: overlapping 
+isiGameko / isiGigaba: incident; adventure 
+-Gcizelela: emphasise; stress 
+isiGcizelelo: emphasis; stress 
+isiGcwalisi: complement 
+isiGemegeme: tragedy 
+iGidigidi: farce 
+isiGigaba esingejwayelekile / esigwanqisayo: adventure 
+iGilo: larynx 
+umGomo / isakhiwo / iplothi: plot 
+umGomo / isiNqumiselo: criterion 
+uGovane: glottis 
+umiGqa: verse 
+umiGqambili: couplet 
+umiGqantathu: tercet 
+umiGqamine: quartrain 
+umiGqamihlanu: quintet 
+umiGqasithupha: sestet 
+umiGqasikhombisa: septet 
+umiGqasishiyagalombili: octet 
+isiGqi: rhythm 
+iGrama: grammar 
+iGrama eyenzayo / esungulayo: generative grammar 
+-Gudlisa (inkulumo): imply 
+ukuGudlisa: implication; to imply 
+isiGudliso: implication 
+umGudu womoya ozwakalisa umsindo wenkulumo: airstream mechanism 
+umGudu womoya wasemaphashini: pulmonic airstream 
+umGudu womoya wasemlonyeni: oral airstream 
+umGudu womoya weGilo: glottalic airstream 
+umzila womGudu womoya: direction of airstream 
+-Guquguqula: modify 
+isiGuquli: modifier 
+ukuGuquka komsindo: sound change 
+ukuGuqulela/ukufaka esibalulini: relativisation 
+ukuGuqulela / ukufaka empambosini: passivisation 
+inGxenye yomusho: sentence 
+isiGxumeko: infix 
+iHaba: exaggeration; hyperbole 
+iHayiphonimi: hyponym 
+iHetheronimi: heteronym 
+uHla: column 
+-Hlaba / -Hluza: criticise 
+ukuHlaba: criticism; to criticise 
+-Hlahlela / -Hlaziya: analyse 
+ukuHlahlela / ukuhlaziya: analysis; to analyse 
+uHlaka / isAkhi / iPlothi: plot 
+-Hlanganisa: synthesise 
+ukuHlanganisa: synthesis 
+isibanjalo esiHlanganisayo: associative capulative 
+unHlangothini / usoceleni: lateral 
+iHlaya: pun 
+inHlekelele: crisis 
+-Hlela: classify 
+ukuHlela / inHlelo: classification; setting 
+iHlelo lamagama: terminology 
+-Hlelemba: exercise 
+inHlelembo: exercise 
+-Hlelisa: tabulate 
+uHlelomisho / iSintheksi / inSebenzomagume: syntax 
+inHlobo: kind 
+uHlobo: type 
+isiHloko: point; subject 
+isiHloko / inKotha: tip of tongue 
+-Hlola / -Fokisa / -Hlaziya: investigate 
+inHlonipho: euphemism 
+inHloso / inJongo: aim 
+inHluko: dissimilation 
+uHlu lwezinhlamvu zamagama / i-alfabhethi: alphabet 
+-Hluza / -Hlaba: criticise 
+ukuHluza / ukuHlaba: criticism; to criticise 
+iHomofoni / umSindofana: homophone 
+iHomonimi / umaBizwafane: homonym 
+u-i- ocashile: latent 'i' 
+Injambementi: enjambement 
+iJanre / uhlobo lobuciko: genre 
+-Jobelela: suffix (v) 
+isiJobelelo: suffix (n) 
+isiJobelelomvama: regular suffix 
+isiJobelelo-sisekelo / soqobo: basic suffix 
+inJongo / inhloso: aim 
+ngobuKhelwane 
+unKamisa ongandingilizisiwe: unrounded vowel 
+unKamisa osandingiliza: round vowel 
+unKamisa ongagaxekile / a /: neutral vowel 
+unKamisa ophambili maphakathi ophakeme: midfront raised vowel 
+umKamisa ophambili maphakathi ongaphakeme: midfront unraised vowel 
+umKamisa ophambili ophakeme: front raised vowel 
+umKamisa osemuva maphakathi ophakeme: midback raised vowel 
+umKamisa osemuva maphakathi ongaphakeme: midback unraised vowel 
+umKamisa osemuva ophakeme: back raised vowel 
+umKamisa wemvelo: primary vowel 
+umKamisa wokuvela / wokususelwa: derived vowel 
+inKathi: phase; tense 
+-Khanyayo: definite; definitive 
+-Khanyisayo / isiKhanyiso: descripti  
+uKhefana / iKhoma: comma 
+uKhefanakhoma / iSemikholoni: semi-colon 
+uKhefanangqi / iKholoni: colon 
+iKhefu: pause 
+ngobuKhelwane / ubuKhelwane / amagama aKhelene asebenza ngokufana: in apposition to  
+AbaKaki / izibiyelo: brackets 
+abaKaki abanameva { }: braces 
+abaKaki abasikwele [ ]: square 
+unKamisa: vowel 
+onKamisa boqolo / sisekelo / unKamisamaphahla / iDifthongi: diphtong 
+ubuKhizikhizi: words in apposition 
+ubuKhizikhizi: luxury 
+iKhomedi: comedy 
+iKhono: competence 
+iKhono ohlelweni: grammatical competence 
+ikhophula: copula 
+isiKhoxe somlomo: oral cavity 
+-komKhuba / uMumo: characteristic 
+isiKhulisi: intensifier 
+ukuKhulisa: intensify 
+isiKhulu: official 
+oKhulumayo: first person 
+okuKhulunywa naye: second person 
+okuKhulunywa ngaye: third person 
+-Khuthazayo: hortative 
+isiKitazi: pun 
+umKlamo: survey 
+inKambiso: norm 
+isimo senKonzo: ritual 
+inKomba: sign 
+inKombisa: signal 
+inKothal isillloko: tip of the tongue 
+inKulekelo / imBizi / umMemezi: apostrophe 
+inKulumo: speech 
+inKulumo efanisayo: figure of speech 
+inKulumombiko: indirect / reported speech 
+inKulumompikiswano / imPikiswano: debate 
+inKulumongqo / inKulumoqho: direct speech 
+inKundla: act (in drama) 
+-Landa: narrate 
+ukuLanda: narration; narrative 
+ukulandelana: ngemikhakha chronological order 
+umLandi: narrator 
+umLandi ozikhulumelayo oxoxayo: first person narrator 
+iso / isu lomLandi: narrator's viewpoint 
+iso / isu lomLandi elingavuni nhlangothi: objective viewpoint 
+iso / isu lomlandi elivunayo: subjective viewpoint 
+isiLandiso: predicate 
+isiLawuli: determiner 
+iLeksimi: lexeme 
+isilengiso / ukulengisa: suspense 
+isithebe soLimi: blade of tongue 
+isiLinganiso: allegory; measurement 
+ukuLinganisa: measurement; to measure 
+-Linganisa: characterise 
+ukuLinganisa / ukuLinganiswa: characterisation 
+-Lingisa: emulate 
+umLingiswa: character; actor 
+umLingiswa okholekayo: convincing character 
+umLingiswa oyisicaba: flat character 
+umCwaningizilimi: linguist 
+iLingwistiksi / uCwaningozilimi: linguistics 
+iLingwistiksi yokuqhathanisa / uCwaningolulimi: comparative  
+iLirikhi / inkondlomculo: lyric 
+omaLukeke: italics 
+iLunga: syllable 
+amaLunga amabili angagcizelelwe elanyawa eligcizelelwe / i-anaphesti: anapest 
+iLunga elegcizelelwe: stressed syllable 
+iLunga eligcizelelwe elelanywa ngomabili angagcizelelwe / i-iyembi: iamb 
+iLunga eligcizelelwe elelanywa ngeligcizelelwe / idakthili: dactyl 
+iLunga eligcizelelwe elelanywa ngelingagcizelelwe / ithroshe: trochee 
+iLunga elingagcizelelwe: unstressed syllable 
+-Lungalinye: monosyllabic 
+uLungalinye: monosyllable 
+uLwanga: palate 
+uLwangeni: palatal 
+ukuLwangisa: palatalisation  
+uMadubala: plosive 
+uMadubulela emakhaleni: nasal plosive 
+uMadubulela emloyeni: oral plosive 
+uMadubulela phakathi: implosive 
+uMadubelela phandle: explosive 
+iMofimi: morpheme 
+iMagazini: magazine 
+uMalakeni: velar 
+uMankankana / uNgwaqamankankana: nasal 
+isiMeleli / iMethonimi: metonym 
+iMelodrama: melodrama 
+umMemezi / imBizi / inKululekela: apostrophe 
+iMilyu / isiZinda: milieu 
+uMilyu engabonakali: non-physical milieu 
+iMilyu yesimo sendawo nemvelo: physical milieu 
+-Minyana / -Minyene: intense 
+-Minyanisa: intensify 
+isiMiselo: regulation 
+iMitha: metre 
+isiMo: state 
+isimoMqondo: attitude 
+isiMo senkonzo / inKambiso: ritual 
+esinye isiMo sa-: variant form / prefix / vowel 
+iMofimi / isAkhiqho: morpheme 
+iMofimi elingezimele: bound morpheme 
+iMofimi elingazimela: free morpheme 
+iMofimi elinencasiselo / elinenqondo: lexical morpheme 
+iMofimi lesivumelwano: agreement morpheme 
+iMofimi lohlelo: grammatical morpheme 
+iMofimi elingaqambi: inflectional morpheme 
+iMofimi lesiqondiso: aspectual morpheme 
+iMofimi eliqambayo: derivational morpheme 
+iMofoloji / inSebenzomagama: morphology 
+-noMongo: pithy 
+uMongo / umNyombo: precis, pith 
+iMotho (isaga esiwingomo): motto 
+uMoya / uSinga / umZwelo: emotion 
+umgudu woMoya ozwakalisa umsindo wenkulumo: airstream mechanism 
+iMothifi / umuvomQondoqho / iNgqikithana yendaba: motif 
+iMotifimi/umuvomQondomumbe: motifeme 
+uMumo / -komKhuba: characteristic 
+iNcwajana: brochure; pamphlet 
+iNdabamfanekiso: allegory 
+iNdawo/isiKhundla: environment 
+iNdeni: centre; midpoint 
+iNdima: stanza 
+iziNdima ezinciphayo: diminishing stanzas 
+iziNdima ezingalingani: irregular stanzas 
+iziNdima eziqumbayo: bulging stanzas 
+iNdiva: obsolete 
+iNdlela: mood 
+iNdlela / iSistimu: system 
+iNdlela encikayo: subjunctive mood 
+iNdlela ephoqayo: imperative  mood 
+iNdlela eqondisayo: indicative mood 
+iNdlela esabizosenzo: infinitive mood 
+iNdlela yesimo: participal mood 
+imiNiningwane: data; detail 
+ukuNgabaza: suspense 
+iNgcweti / iCiko / iGagu: artist; expert 
+iNgqikithi / isimo: context 
+uNgwaqa: consonant 
+uNgwaqabathwa: click / suction consonant 
+uNgwaqabathwa-mankankana: compound nasalised click 
+uNgwaqabathwansinini: alveolar click 
+uNgwaqa ovuthelwayo / opheshethwayo: aspirated consonant 
+uNgwaqa oyilunga: syllabic consonant 
+uNgwaqazinyweni: dental click consonant 
+ukuNgwaqazisa: consonantilisation 
+umaNkankana: nasal 
+ukuNkankaza: nasalisation 
+iNkondlo: poem 
+iNkondlo kamakhulumayedwa: dramatic monologue 
+iNkondlokubonga: eulogy 
+iNkondlomculo: lyric 
+iNkondlomzwangedwa: ode 
+ubuNkondlo: poetry  
+amaNqamu: crises 
+isiNqumiselo / umGomo: criterion 
+uNsinini: alveolar 
+iNsinilwangeni: alveopalatal 
+uNsinihlangothini: alveolateral 
+iNsumansumane / iNsumo: fable 
+isiNtelo: epigram 
+uNtu: diaphragm / midriff 
+uNyathelo / imitha: metre 
+uNyatheloluye: monometer 
+uNyathelombili: dimetre 
+uNyathelontathu: trimeter 
+uNyathelonhlanu: pentameter 
+uNyathelosithupha: hexameter 
+uNyathelosikhombisa: septametre 
+umNyombo / uMongo: pith 
+uNxankamisa: semivowel 
+-sObala: definite 
+umaBonezwakala: audio-visual 
+i-Okzimoroni / imPikisamqondo: oxymoron 
+I-Othografi: orthography  
+izimPambosi: verbal extensions 
+izimPambosi ezikhiqizayo: productive extensions 
+imPambosi yokwenzana: reciprocal extension 
+imPambosi yokwenzeka: neuter extension 
+imPambosi yokwenzela: applied extension 
+imPambosi yokwenzisa: causative extension 
+imPambosi yokwenzisisa: intensive extension 
+imPambosi yokwenziwa: passive extension 
+izimPambosi ezingakhiqizi: non-productive extensions 
+imPambosi yasendulo u-al- ; isib.- khuthala; - khuthele: stati extension 
+imPambosi yasendulo u-alal- ; isib. - cambalala: - cambalele: dispersive extension 
+imPambosi yasendulo -am- ; isib.- khothama; - khotheme: locative stative extension 
+imPambosi yasendulo u-ath-; isib. - thatha : - thethe: contacti extension 
+imPambosi yasendulo, u-buk-; -bul-; isib.- dabuka; dabula: reversive extension 
+imPambosi yasendulo u-bul- ; isib. -bhaxabula: extensive extension 
+imPambosi yasendulo u-lel- ; isib. -hlabelela; - hlabelele: perspective extension 
+imPambosi yasendulo u-ezel- ; isib. - bambezela: persistive extension 
+izimPawu ezahlukanisayo / eziqhakambisayo: distinctive features 
+imPendle / iseThulo: exposition 
+umPeza: glide 
+ukumPeza: glide formation 
+ukuPhakamisa: (vowel) raising 
+ukuPhakamisa onkamisa: vowel raising 
+ukuPhakanyiswa konkamisa: vowel raising 
+isiPhambuko / imPambuko / imPulamthetho: exception 
+uPhawana / iDayakhrithiki: diacritic mark 
+uPhawu: mark; sign; symbolism 
+ngokuPheleleyo: in full 
+isiPhelisi / isEngezo: adjunct unomPhelo / iVuthondaba: climax 
+Phenya : investigate 
+ukuPhenya / ukuPhenywa: investigation 
+umPheshethwa / uVuthelwa: aspirated consonant 
+imPikisamqondo: oxymoron 
+isiPhikisi / umQondophika / i-Anthonimi: antonym 
+iPhimbo / iPhrosodi: prosody 
+umPhimbo: larynx 
+iPhimbolimbe: allotone 
+iPhimboqho: toneme 
+isiPhimisi: articulator 
+isiPhimisi esinganyakazi: passive articulator 
+isiPhimisi esinyakazayo: active articulator 
+ukuPhindaphinda: reduplication 
+umPhinjeni: glottal 
+ukuPhongoza: to prefix 
+isiPhongozo: prefix 
+-Phoqelekile / -yisiBopho: obligatory 
+iPhresi: precis 
+iPhrosodi: prosody 
+iPhrosodiksi: prosodics 
+iPhrozi / uBhaloqho: prose 
+umPhumela: effect 
+isiPhumuzi: punctuation mark 
+imPikisamqondo: antithesis 
+imPikiswano: debate 
+imPindampindamazwi: tautology 
+imPindamqondo: parallelism 
+imPindwa: repetition 
+iPlothi / isAkhiwo / uHlaka: plot 
+imPulamthetho / imPambuko: exception 
+uPutshu: ejective  
+-Qalisayo: elementary / primary 
+isiQalo: prefix 
+isiQalongqo / sisekelo / soqobo: basic/real/true prefix 
+isiQalo sebizo: noun prefix 
+isiQalo sesiqalo: preprefix 
+umQaqafindo: denouement 
+inQubeko / inQubo: process 
+-Qhathanisa: compare 
+ukuQhathanisa / isiQhathaniso: contrast  
+ukuQhubekelela: continuum 
+isiQinisamfuthwa / uVinjwamfuthwa: affricative 
+isiQinisi: determiner 
+iQiniso elamkelekile: axiom 
+isiQondiso: aspect 
+isiQondiso esiqhubekayo: durative / progressive aspect 
+isiQondiso esigcinisayo: terminating aspect 
+isiQondiso esiqalisayo: inceptive aspect  
+isiQondiso samandla: potential aspect 
+umQondo: sense 
+umQondongqo: conceptual meaning 
+umQondo ohlanganisayo: associative meaning 
+umQondo olandelanayo / onikezelanayo: collocative meaning 
+umQondo oqalisayo: elementary concept 
+umQondo osobala: literal meaning / non-literal 
+umQondo othintayo / othintene nomoya: affective meaning 
+umQondo wegama: lexical meaning 
+ububanzi bomQondo: range of meaning 
+uQwanga: cartilage
+-Sebenzayo: practical 
+inSebenzomagama: syntax 
+inSebenzomaphimbo: tonology 
+inSebenzomisindo: phonology 
+inSebenzozakhi: morphology 
+uKhefanangqi: semi-colon 
+iShashalazi: stage 
+umuSho: sentence 
+umuShonje: simple sentence 
+umuSho omagatshagatsha: complex sentence 
+umuSho ombaxambaxa: compound sentence 
+Shono: express 
+-Shumayelayo / -bo- / : exhortative 
+isiqalo esiShumayezayo; isib. ubohamba uma efika: exhortative prefix 
+umShwana: clause 
+umShwana ofakiwe: inserted clause 
+umShwana okhonzile: subordinate clause 
+umShwana owembelwe: embedded clause 
+umShwana oyinhloko: main clause 
+uSinga / umZwelo / uMoya: emotion 
+uSingankamisa: semivowel 
+isiSimamisi: stabiliser 
+imfundoncazelo: semantics 
+umSindo : sound 
+umSindo kavinjwamfuthwa: affricative sound 
+umSindomumbe / i-Alofoni: allophone 
+umSindo onezwi: voiced sound 
+umSindo ongenazwi: voiceless / unvoiced sound 
+umSindoqho / ifoni: phone 
+umSindo wenkulumo: speech sound 
+iSinonimi : synonym 
+imiSipha ephakathi kwezimbambo: intercostal muscles 
+iSistimu / iNdlela: system  
+inSizasenzo: auxiliary verb 
+-Sola: criticise 
+ukuSola I inSolo: criticism 
+-Sondelana: juxtapose 
+ukuSondelana: in juxtaposition 
+uSondelela [w, j]: approxinant 
+iSonethi / uShuminane: sonnet 
+isiSusa: motive; stimulus 
+-Susela / -thola / -veza / -zuza: derive 
+isiTeji / iShashalazi: stage 
+uTeku: humour 
+isiThasiselo: appendix 
+-Thathayo / -Bandakanyayo: inclusive 
+isiThebe solimi: blace of tongue 
+isiThelekiso: antithesis 
+iTheminoloji: terminology 
+ukuThendemuza kwezwi: delayed voicing 
+umThetho / imiThetho: rule / rules 
+umThethonqubo / isiMiselo: regulation 
+imiThetho yoguqukomsindo: phonological rules 
+imiThetho yesintheksi: syntactic rules 
+imiThetho yokuchasisa: semantic rules 
+imiThetho yokuguqula: transformation ruler (T -rules) 
+imiThetho yokwakha amabinzana: phrase structure rules(PS-rules) 
+-Thinta: communicate; touch 
+-Thintana: communicate with  
+imVumelwano: agreement system; conord system 
+ukuThintana: communication 
+-Thintene nobuhle: aesthetic 
+isiTho: limb 
+isiTho sokuphimisela: articulatory organ 
+-Thola / -veza / -zuza / - susela: derive 
+-tomula / -caphuna: quote 
+ukutomula / ukucaphuna: to quote / quotation 
+umtomulo: quotation 
+iThonoloji / inSebenzomaphimbo: tonology 
+uThwethwesi: membrane  
+uValo / untu: midriff 
+ukuVelela / ukuQhamukela: approach 
+uVelesenzweni / iDivebhethivi: deverbative 
+imvelomagama / i-Ethimoloji: etymology 
+uVevezela: vibrant 
+ukuVezwa / ukuBunjwa kwabalingiswa: characterisation 
+uVinjwamfuthwa / uvinjwa: affriate / affricative 
+uVinjwa wasemlomyeni: oral stop 
+ubuViyoviyo: intonation 
+iVumangokuphika: litotes 
+imVumelwano: rhyme 
+imVumelwano enqumayo: cross rhyme 
+imVumelwano etshekile: oblique rhyme 
+imVumelwano-ngwaqa: pararhyme 
+imVumelwano-sigcino: final rhyme 
+imVumelwano-siqalo: initial rhyme 
+imVumelwano yomugqa maphakathi: internal rhyme 
+-Vunayo : subjective 
+-ngaVuniyo: objective 
+-Vusa; ukuVusa: stimulate; stimulation 
+isiVusi: stimulant 
+-Vuthela: aspirate 
+ukuVuthela/isiVuthelo: aspiration 
+isiVumelwano: concord 
+isiVumelwano sokuntu: impersonal / indefinite concord 
+isiVumelwano somenzi: subject concord 
+isiVumelwano somenziwa: object concord 
+iVuthondaba / unomphelo: climax   
+-Xoxa / -landa: narrate 
+ukuXoxa / ukuLanda: narration 
+ingXoxo: narrative; discussion 
+ukuXhumanisa: linking 
+ukuXhumanisa-bunxemu: oblique linking 
+ukuXhumanisa-sigcino: final linking 
+ukuXhumanisa-siphambano: cross linking 
+iZwi lokuchasisa: 
+ukuXhumanisa-siqalo: initial 
+isiXhumo: affix 
+-Yalayo / -Khuthazayo, isi. ake, (mja-): hortative 
+iziqalo eziYalayo: hortative prefixes 
+iYuloji / iNkondlokubonga: eulogy 
+umZekeliso: legend 
+umZila womgudu womoya: direction of airstream 
+umaZinyweni: dental 
+-Zuza / -Susela / - Thola / - Veza: derive 
+umZwelo / uMoya / uSinga: emotion 
+iZwi: tone 
+iZwi elehlayo: falling tone 
+iZwi elizikayo: breathy / murmured voice 
+iZwi eliphakamayo: rising tone 
+iZwi eliphakeme: high tone 
+iZwi eliphansi: low tone 
+iZwi eliwuphawu: characteristic tone 
+iZwi lohlelo: grammatical tone 
+iZwi lokuchasisa: semantic tone
